@@ -1,0 +1,458 @@
+job_title,rating,size,owner_type,industry,sector,revenue,avg_salary,python,r_language,spark,aws,excel,city,state
+Senior Data Engineer,3.2,1001 to 5000 employees,Company - Private,Advertising & Marketing,Business Services,$1 to $2 billion (USD),134.0,0,0,1,1,0,Charlotte, NC
+Data Scientist,2.5,1001 to 5000 employees,Company - Public,Advertising & Marketing,Business Services,$1 to $2 billion (USD),96.5,1,0,1,0,0,Portland, OR
+Data Scientist,3.3,1001 to 5000 employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),110.0,1,0,0,0,1,Chantilly, VA
+Big Data Engineer,3.3,1001 to 5000 employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),118.5,1,0,1,0,0,Chantilly, VA
+Data Scientist,4.5,5001 to 10000 employees,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),130.0,1,0,0,0,1,Laurel, MD
+Corporate Risk Data Analyst (SQL Based) - Milwaukee or,3.8,1001 to 5000 employees,Company - Public,Banks & Credit Unions,Finance,$1 to $2 billion (USD),60.0,0,0,0,1,1,Green Bay, WI
+Senior Data Scientist,3.5,5001 to 10000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),147.5,1,0,0,0,1,Fremont, CA
+Data Scientist,3.5,5001 to 10000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),75.5,1,0,0,0,1,Albuquerque, NM
+Senior Scientist - Neuroscience,3.5,1001 to 5000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),145.0,1,0,0,0,1,Marlborough, MA
+Senior Data Scientist,3.5,5001 to 10000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),133.5,1,0,0,0,1,Arvada, CO
+Senior Scientist (Neuroscience),3.5,1001 to 5000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),154.5,1,0,0,0,1,Marlborough, MA
+Senior Quantitative Analyst,3.3,1001 to 5000 employees,Company - Private,Brokerage Services,Finance,$1 to $2 billion (USD),173.0,1,0,0,0,1,Jersey City, NJ
+Product Engineer – Data Science,3.5,1001 to 5000 employees,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),82.0,1,0,0,0,0,Arlington, VA
+Senior Data Engineer,4.3,5001 to 10000 employees,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),112.5,1,0,1,1,0,Durham, NC
+Data Scientist,3.5,1001 to 5000 employees,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),107.0,1,0,1,1,0,Redlands, CA
+Software Engineer (Data Scientist/Software Engineer) - SISW - MG,4.1,5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),107.0,1,0,0,0,1,Fremont, CA
+Product Engineer – Spatial Data Science and Statistical Analysis,3.5,1001 to 5000 employees,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),68.5,1,0,1,0,1,Redlands, CA
+Senior Data Scientist,4.4,1001 to 5000 employees,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),139.5,1,0,0,0,0,Natick, MA
+Associate Scientist,2.9,1001 to 5000 employees,Company - Private,Consumer Products Manufacturing,Manufacturing,$1 to $2 billion (USD),81.5,0,0,0,0,1,Valencia, CA
+Excel / VBA / SQL Data Analyst,4.1,501 to 1000 employees,Company - Private,Energy,"Oil, Gas, Energy & Utilities",$1 to $2 billion (USD),61.0,0,0,0,0,1,Springfield, MO
+Senior Data Science Systems Engineer,3.2,5001 to 10000 employees,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),77.5,0,0,0,0,0,Hampton, VA
+Data Scientist,3.2,5001 to 10000 employees,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),97.5,1,0,0,0,1,McLean, VA
+Data Scientist - Systems Engineering,3.2,5001 to 10000 employees,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),69.5,1,0,0,0,1,Bedford, MA
+Associate Data Scientist/Computer Scientist,3.2,5001 to 10000 employees,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),81.5,1,0,1,0,0,McLean, VA
+Jr. Data Scientist,3.2,5001 to 10000 employees,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),106.5,1,0,1,0,1,McLean, VA
+Senior Insurance Data Scientist,3.9,5001 to 10000 employees,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),140.0,1,0,0,0,1,Chicago, IL
+Insurance Data Scientist,3.9,5001 to 10000 employees,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),85.0,1,0,1,0,0,Atlanta, GA
+Data Engineer,3.7,10000+ employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),81.0,0,0,0,0,1,Roanoke, VA
+Data Engineer,3.4,501 to 1000 employees,Company - Private,IT Services,Information Technology,$1 to $2 billion (USD),80.0,1,0,1,0,1,Houston, TX
+Data Engineer I - Azure,3.9,1001 to 5000 employees,Company - Private,Industrial Manufacturing,Manufacturing,$1 to $2 billion (USD),77.5,0,0,0,0,1,Pella, IA
+Senior Research Statistician- Data Scientist,4.8,1001 to 5000 employees,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),100.5,0,0,0,0,0,Sheboygan, WI
+Sr. Data Scientist II,3.4,1001 to 5000 employees,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),147.0,1,0,1,1,0,New York, NY
+Data Scientist,3.1,1001 to 5000 employees,Company - Private,Mining,Mining & Metals,$1 to $2 billion (USD),98.0,1,0,0,0,0,Pittsburgh, PA
+Data Scientist,3.5,501 to 1000 employees,Company - Private,Other Retail Stores,Retail,$1 to $2 billion (USD),163.5,1,0,0,0,0,San Jose, CA
+Data Scientist,3.4,201 to 500 employees,Company - Public,Real Estate,Real Estate,$1 to $2 billion (USD),95.0,1,0,0,1,1,Dallas, TX
+Data Engineer,4.1,5001 to 10000 employees,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),92.0,0,0,0,0,0,Herndon, VA
+Data Scientist,4.1,5001 to 10000 employees,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),85.0,0,0,0,0,0,Chantilly, VA
+Clinical Data Analyst,4.1,5001 to 10000 employees,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),70.5,0,0,0,0,0,Portsmouth, VA
+Data Scientist,2.8,1001 to 5000 employees,Company - Public,Wholesale,Business Services,$1 to $2 billion (USD),76.5,1,0,0,0,1,Carle Place, NY
+"Scientist I/II, Biology",3.9,51 to 200 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),102.0,0,0,0,0,1,Cambridge, MA
+Principal Data Scientist (Computational Chemistry),4.7,51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),140.5,1,0,0,1,0,Salt Lake City, UT
+Data Scientist,2.8,51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),118.0,1,0,0,0,1,Framingham, MA
+Data Scientist,3.9,51 to 200 employees,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD),124.0,1,0,0,0,0,San Francisco, CA
+Lead Data Engineer (Python),4.7,51 to 200 employees,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),94.5,1,0,0,1,0,San Francisco, CA
+Data Scientist,3.4,51 to 200 employees,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD),87.5,0,0,0,0,0,Chicago, IL
+Data Scientist,5.0,51 to 200 employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),101.0,1,0,0,0,0,Springfield, VA
+Associate Environmental Scientist - Wildlife Biologist,4.7,51 to 200 employees,Company - Private,Architectural & Engineering Services,Business Services,$10 to $25 million (USD),51.0,0,0,0,0,1,Clovis, CA
+"Clinical Scientist, Clinical Development",3.8,51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),37.0,0,0,0,0,1,Watertown, MA
+Research Scientist,1.9,51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),87.5,0,0,0,1,0,Cambridge, MA
+Data Analyst,4.3,51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),77.5,0,0,0,0,1,Chicago, IL
+Senior Data Engineer,3.9,51 to 200 employees,Company - Public,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),139.0,1,0,0,1,1,San Francisco, CA
+Data Engineer,4.3,51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),100.0,0,0,1,0,1,Chicago, IL
+CONSULTANT– DATA ANALYTICS GROUP,4.2,51 to 200 employees,Company - Private,Consulting,Business Services,$10 to $25 million (USD),52.5,1,0,0,0,0,San Diego, CA
+Data Scientist,4.3,201 to 500 employees,Company - Private,Consulting,Business Services,$10 to $25 million (USD),115.0,1,0,1,1,0,New York, NY
+Data Scientist,3.4,51 to 200 employees,Company - Private,Consulting,Business Services,$10 to $25 million (USD),96.5,1,0,0,0,0,Washington, DC
+Data Analyst,3.6,1 to 50 employees,Company - Private,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD),66.0,0,0,0,0,1,New York, NY
+Data Modeler,4.7,51 to 200 employees,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),106.5,0,0,0,0,0,Landover, MD
+Senior Data Scientist,3.3,1001 to 5000 employees,Company - Private,Insurance Carriers,Insurance,$10 to $25 million (USD),98.5,0,0,0,0,1,Woodbridge, NJ
+Data Scientist,3.9,51 to 200 employees,Company - Private,Insurance Carriers,Insurance,$10 to $25 million (USD),108.0,1,0,1,0,0,Oakland, CA
+Staff Machine Learning Engineer,3.9,201 to 500 employees,Company - Private,Internet,Information Technology,$10 to $25 million (USD),181.0,1,0,1,0,0,San Francisco, CA
+Manager of Data Science,3.9,201 to 500 employees,Company - Private,Internet,Information Technology,$10 to $25 million (USD),63.5,1,0,1,0,0,San Francisco, CA
+Lead Data Analyst,3.9,201 to 500 employees,Company - Private,Internet,Information Technology,$10 to $25 million (USD),47.0,0,0,1,0,0,New York, NY
+Senior Data Engineer,3.9,201 to 500 employees,Company - Private,Internet,Information Technology,$10 to $25 million (USD),136.5,0,0,0,0,0,San Francisco, CA
+Data Scientist,4.3,51 to 200 employees,Nonprofit Organization,Logistics & Supply Chain,Transportation & Logistics,$10 to $25 million (USD),84.0,1,0,0,0,1,Louisville, KY
+Senior Data Engineer,4.7,51 to 200 employees,Company - Private,Security Services,Business Services,$10 to $25 million (USD),138.5,1,0,1,0,0,Austin, TX
+Data Scientist,3.7,10000+ employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),109.5,0,0,0,0,1,San Diego, CA
+Principal Data Scientist,3.7,10000+ employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),173.0,1,0,0,0,0,San Jose, CA
+Software Engineer Staff Scientist: Human Language Technologies,3.7,10000+ employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),99.0,1,0,0,0,0,Cambridge, MD
+Data Scientist,3.7,10000+ employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),89.0,1,0,1,0,1,Herndon, VA
+Data Scientist,3.4,10000+ employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),101.5,1,0,0,1,0,Springfield, VA
+Systems Engineer II - Data Analyst,3.7,10000+ employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),62.5,0,0,0,0,1,Huntsville, AL
+"Associate, Data Science, Internal Audit",3.1,10000+ employees,Company - Private,Banks & Credit Unions,Finance,$10+ billion (USD),62.5,1,0,0,0,1,Boston, MA
+Senior Data Scientist - R&D Oncology,3.9,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),137.0,1,0,0,0,0,New York, NY
+"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",3.8,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),106.5,1,0,0,0,0,Cambridge, MA
+"Data Engineer, Data Engineering and Artifical Intelligence",3.7,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),102.5,1,0,1,1,1,Cambridge, MA
+"Associate Scientist/Scientist, Process Analytical Technology - Small Molecule Analytical Chemistry",3.9,10000+ employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),125.0,0,0,0,0,1,South San Francisco, CA
+"Director, Precision Medicine Clinical Biomarker Scientist",4.0,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),172.0,0,0,0,1,0,Cambridge, MA
+"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",3.7,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),154.5,0,0,1,1,1,Cambridge, MA
+Data Scientist / Machine Learning Expert,3.8,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),114.5,1,0,0,0,0,Cambridge, MA
+Data Scientist,3.7,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),113.5,1,0,1,0,0,Cambridge, MA
+"Sr Scientist, Immuno-Oncology - Oncology",3.9,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),84.5,0,0,0,1,0,Cambridge, MA
+Pricipal Scientist Molecular and cellular biologist,3.7,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),76.5,0,0,0,0,1,Boston, MA
+Data Scientist in Translational Medicine,3.8,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),114.5,0,0,0,0,0,Cambridge, MA
+Sr. Scientist - Digital & Image Analysis/Computational Pathology,3.7,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),151.5,0,0,0,0,1,San Diego, CA
+Senior Data Scientist: Causal & Predictive analytics AI Innovation Lab,3.8,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),121.0,0,0,0,0,0,Cambridge, MA
+"Associate Principal Scientist, Pharmacogenomics",3.9,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),95.0,0,0,0,0,0,Gaithersburg, MD
+Clinical Data Scientist,4.0,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),84.0,0,0,0,1,1,Groton, CT
+"Senior Manager, Epidemiologic Data Scientist",4.0,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),167.5,0,0,0,1,1,New York, NY
+Digital Health Data Scientist,4.0,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),86.5,1,0,0,1,1,Cambridge, MA
+"Scientist, Immuno-Oncology",3.9,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),90.5,0,0,0,1,0,Cambridge, MA
+"Sr. Scientist, Quantitative Translational Sciences",3.7,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),161.5,0,0,0,0,0,Boston, MA
+"Senior Data Scientist – Visualization, Novartis AI Innovation Lab",3.8,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),121.0,0,0,0,0,0,Cambridge, MA
+Principal Scientist - Immunologist,3.7,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),140.0,0,0,0,0,1,Boston, MA
+"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",3.9,10000+ employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),169.0,1,0,1,0,1,South San Francisco, CA
+Scientist - CVRM Metabolism - in vivo pharmacology,3.9,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),92.0,0,0,0,0,0,Gaithersburg, MD
+Principal Data Scientist,3.9,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),147.5,1,0,0,0,1,Gaithersburg, MD
+Data Scientist,3.9,10000+ employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),163.0,0,0,0,0,1,South San Francisco, CA
+Senior Data Scientist Oncology,3.9,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),140.0,1,0,0,0,1,Gaithersburg, MD
+"Senior Engineer, Data Management Engineering",3.5,10000+ employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),98.5,1,0,1,1,0,Milpitas, CA
+Staff Data Scientist,3.5,10000+ employees,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),171.5,1,0,0,1,0,San Jose, CA
+Scientist - Analytical Services,3.1,5001 to 10000 employees,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),99.5,0,0,0,0,1,Winston-Salem, NC
+Senior Scientist - Biostatistician,3.1,5001 to 10000 employees,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),80.5,0,0,0,0,1,Winston-Salem, NC
+Senior Scientist - Regulatory Submissions,3.1,5001 to 10000 employees,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),117.5,0,0,0,0,1,Winston-Salem, NC
+Scientist Manufacturing Pharma - Kentucky BioProcessing,3.1,5001 to 10000 employees,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),103.5,0,0,0,0,0,Owensboro, KY
+Scientist Manufacturing - Kentucky BioProcessing,3.1,5001 to 10000 employees,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),103.5,0,0,0,0,0,Owensboro, KY
+Senior Scientist - Toxicologist - Product Integrity (Stewardship),3.1,5001 to 10000 employees,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),74.0,0,0,0,0,1,Winston-Salem, NC
+Staff Data Scientist - Technology,3.2,10000+ employees,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),139.0,0,0,0,0,0,Plano, TX
+Data Scientist Manager,3.8,10000+ employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),147.0,1,0,1,0,1,New York, NY
+Sr. Data Engineer - Contract-to-Hire (Java),3.0,10000+ employees,Company - Private,Gas Stations,Retail,$10+ billion (USD),98.0,1,0,0,0,0,Knoxville, TN
+Medical Lab Scientist - MLT,3.2,10000+ employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),25.0,0,0,0,0,0,Omaha, NE
+Program/Data Analyst,3.4,10000+ employees,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD),77.0,0,0,0,0,1,Washington, DC
+Lead Data Scientist,3.7,10000+ employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),184.5,1,0,0,0,1,Bellevue, WA
+Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics,3.7,10000+ employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),89.5,1,0,1,0,0,Ashburn, VA
+Scientist,3.4,10000+ employees,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD),85.5,0,0,0,0,0,Suitland, MD
+Consultant - Analytics Consulting,3.0,10000+ employees,Company - Public,IT Services,Information Technology,$10+ billion (USD),62.5,0,0,0,0,1,Hartford, CT
+College Hire - Data Scientist - Open to December 2019 Graduates,3.7,10000+ employees,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),81.0,0,0,0,0,0,Peoria, IL
+Data Scientist,3.7,10000+ employees,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),115.0,1,0,0,0,1,Armonk, NY
+Senior Data Scientist,3.7,10000+ employees,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),139.0,1,0,0,0,1,Armonk, NY
+Data Science Project Manager,3.6,5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),68.5,0,0,0,0,1,Boston, MA
+Sr. Data Analyst,3.6,5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),81.0,1,0,0,0,0,Springfield, MA
+Data Modeler - Data Solutions Engineer,3.3,10000+ employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),51.5,1,0,0,0,1,Indianapolis, IN
+Data Analytics Project Manager,3.6,5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),63.0,0,0,0,0,1,Springfield, MA
+Data Modeler (Analytical Systems),3.6,5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),91.5,0,0,1,1,1,Boston, MA
+Lead Data Scientist,3.6,5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),164.0,1,0,1,1,0,Boston, MA
+"Director II, Data Science - GRM Actuarial",3.3,10000+ employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),254.0,1,0,0,0,0,Chicago, IL
+"Director II, Data Science - GRS Predictive Analytics",3.3,10000+ employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),194.5,1,0,0,0,0,Chicago, IL
+Data Engineer,3.6,5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),92.0,1,0,1,0,1,Springfield, MA
+"Assistant Director/Director, Office of Data Science",3.3,10000+ employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),53.0,0,0,0,0,0,Boston, MA
+"Data Scientist, Office of Data Science",3.3,10000+ employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),114.5,1,0,0,0,0,Boston, MA
+"Director - Data, Privacy and AI Governance",3.6,5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),101.0,0,0,0,0,0,Boston, MA
+"Enterprise Architect, Data",3.6,5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),129.5,1,0,1,1,1,Boston, MA
+Data Scientist,3.6,10000+ employees,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),116.5,0,0,0,0,1,Jersey City, NJ
+Data Analyst,3.1,1001 to 5000 employees,Company - Public,Video Games,Media,$10+ billion (USD),92.5,1,1,0,0,1,San Mateo, CA
+Data Engineer,3.1,1001 to 5000 employees,Company - Public,Video Games,Media,$10+ billion (USD),113.0,1,0,1,1,1,Aliso Viejo, CA
+"Director, Data Science",3.6,10000+ employees,Company - Public,Wholesale,Business Services,$10+ billion (USD),179.5,1,0,0,0,1,Lake Forest, IL
+Lead Data Scientist,3.8,201 to 500 employees,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),100.0,1,0,0,0,1,Cincinnati, OH
+Data Scientist - Research,3.1,201 to 500 employees,Company - Public,Advertising & Marketing,Business Services,$100 to $500 million (USD),56.5,1,0,0,0,0,Boston, MA
+Data Scientist,4.7,201 to 500 employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),107.0,1,0,1,0,1,Arlington, VA
+Data Scientist,4.7,201 to 500 employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),110.0,1,0,1,0,1,Woburn, MA
+Machine Learning Engineer,4.0,501 to 1000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),87.0,1,0,0,0,0,Fort Belvoir, VA
+Spectral Scientist/Engineer,4.7,501 to 1000 employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),86.5,0,0,0,0,0,Beavercreek, OH
+Data Science Analyst,4.6,1001 to 5000 employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),68.0,1,0,0,0,1,Huntsville, AL
+Data Scientist,3.5,1001 to 5000 employees,Company - Private,Banks & Credit Unions,Finance,$100 to $500 million (USD),99.5,1,0,1,1,1,Hillsboro, OR
+"Scientist, Analytical Development",4.4,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),62.0,0,0,0,0,0,Cambridge, MA
+Sr Data Analyst - IT,2.1,1001 to 5000 employees,Other Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),72.5,0,0,0,0,1,Blue Bell, PA
+Sr. Scientist II,3.5,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),174.0,0,0,0,0,1,San Francisco, CA
+"Scientist/Senior Scientist, Autoimmune",4.4,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),134.5,0,0,0,0,0,Cambridge, MA
+Data Scientist,2.3,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),101.0,1,0,0,0,1,Washington, DC
+Data Scientist,3.2,1001 to 5000 employees,Company - Private,Brokerage Services,Finance,$100 to $500 million (USD),85.0,1,0,0,0,1,Fort Worth, TX
+Senior Data Analyst/Scientist,4.5,201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),121.5,0,0,0,0,0,San Francisco, CA
+Data Scientist - Sales,4.7,501 to 1000 employees,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),168.0,1,0,0,0,1,Mountain View, CA
+Data Scientist,4.5,201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),157.0,0,0,1,1,0,San Francisco, CA
+Managing Data Scientist/ML Engineer,3.4,1001 to 5000 employees,Company - Private,Consulting,Business Services,$100 to $500 million (USD),107.5,0,0,1,0,1,Boston, MA
+Data Scientist/ML Engineer,3.4,1001 to 5000 employees,Company - Private,Consulting,Business Services,$100 to $500 million (USD),97.0,1,0,1,0,1,New York, NY
+Senior Data Analyst,1.9,201 to 500 employees,Company - Private,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million (USD),87.5,1,0,0,0,1,New York, NY
+Digital Marketing & ECommerce Data Analyst,3.6,51 to 200 employees,Subsidiary or Business Segment,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million (USD),51.5,0,0,0,0,1,San Rafael, CA
+Senior Data Scientist,4.0,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),147.0,1,0,0,1,0,Herndon, VA
+Clinical Data Analyst,3.0,1001 to 5000 employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),37.5,0,0,0,0,1,Tampa, FL
+Data Scientist,4.2,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),85.5,1,0,1,0,1,Miami, FL
+Data Scientist,4.0,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),143.0,1,0,0,1,0,Herndon, VA
+Salesforce Analytics Consultant,3.9,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),66.5,1,0,0,0,0,Chicago, IL
+Senior Data Analyst,4.0,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),94.0,1,0,0,0,0,Herndon, VA
+Senior Data Engineer,4.0,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),97.0,1,0,1,1,0,Reston, VA
+"Data Scientist, Senior",4.0,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),142.0,1,0,0,1,0,Fort Belvoir, VA
+R&D Specialist/ Food Scientist,2.4,501 to 1000 employees,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),52.5,0,0,0,0,0,Hoopeston, IL
+Marketing Data Analyst,3.6,1001 to 5000 employees,Company - Private,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million (USD),48.5,0,0,0,0,1,Highland, CA
+MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,3.6,1001 to 5000 employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),27.5,0,0,0,0,0,Millville, DE
+Clinical Laboratory Scientist,3.7,501 to 1000 employees,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),31.5,0,0,0,0,0,Vail, CO
+MED TECH/LAB SCIENTIST - LABORATORY,3.6,1001 to 5000 employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),27.5,0,0,0,0,0,Lewes, DE
+Data Engineer,3.9,1001 to 5000 employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),95.5,1,0,1,0,0,Charlotte, NC
+Data Analyst,3.7,501 to 1000 employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),71.0,0,0,0,0,1,Alexandria, VA
+Data Scientist,3.9,501 to 1000 employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),99.0,1,0,0,0,1,Fort Belvoir, VA
+Data Analyst / Scientist,4.2,1001 to 5000 employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),72.5,0,0,0,0,1,Patuxent River, MD
+Data Scientist SR,3.9,501 to 1000 employees,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),112.0,1,0,1,0,0,Charlottesville, VA
+Data Scientist,3.6,1001 to 5000 employees,Company - Private,Industrial Manufacturing,Manufacturing,$100 to $500 million (USD),107.5,0,0,0,0,1,Santa Fe Springs, Los Angeles
+Sr. Data Engineer (ETL Developer),3.7,201 to 500 employees,Subsidiary or Business Segment,Insurance Carriers,Insurance,$100 to $500 million (USD),115.5,1,0,0,0,1,Des Moines, IA
+IT - Data Engineer II,3.4,1001 to 5000 employees,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),90.0,0,0,1,0,1,Quincy, MA
+Data Engineer,3.7,201 to 500 employees,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),110.5,1,0,0,0,1,New York, NY
+Data Engineer,3.5,201 to 500 employees,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),106.0,1,0,0,0,1,Long Beach, NY
+Data Engineer,3.9,201 to 500 employees,Company - Private,Internet,Information Technology,$100 to $500 million (USD),87.5,1,0,0,1,1,San Francisco, CA
+Senior Data Engineer,4.4,1001 to 5000 employees,Company - Public,Internet,Information Technology,$100 to $500 million (USD),102.5,1,0,1,1,0,Nashville, TN
+Data Scientist,4.6,51 to 200 employees,Company - Private,Internet,Information Technology,$100 to $500 million (USD),140.0,1,0,1,0,0,New York, NY
+Data Engineer,4.4,1001 to 5000 employees,Company - Public,Internet,Information Technology,$100 to $500 million (USD),88.0,1,0,1,1,1,Nashville, TN
+Big Data Engineer - Chicago - Future Opportunity,4.1,501 to 1000 employees,Company - Private,Internet,Information Technology,$100 to $500 million (USD),100.0,1,0,1,1,0,Chicago, IL
+Data Analyst,3.1,1001 to 5000 employees,School / School District,K-12 Education,Education,$100 to $500 million (USD),59.5,1,0,0,0,1,New York, NY
+Analytics - Business Assurance Data Analyst,4.6,501 to 1000 employees,Company - Private,Lending,Finance,$100 to $500 million (USD),43.0,0,0,0,0,1,Cedar Rapids, IA
+Data Scientist,4.0,201 to 500 employees,Company - Private,Lending,Finance,$100 to $500 million (USD),87.0,0,0,0,0,1,New York, NY
+Data Analyst,2.3,501 to 1000 employees,Company - Private,Research & Development,Business Services,$100 to $500 million (USD),62.0,0,0,0,0,1,Baltimore, MD
+Data Scientist,3.9,1001 to 5000 employees,Company - Private,Research & Development,Business Services,$100 to $500 million (USD),15.5,0,0,0,0,1,Port Washington, NY
+Data Scientist,4.8,501 to 1000 employees,Company - Private,Security Services,Business Services,$100 to $500 million (USD),85.0,1,0,1,0,1,Clearwater, FL
+Senior Data Analyst,4.8,501 to 1000 employees,Company - Private,Security Services,Business Services,$100 to $500 million (USD),61.0,1,0,0,0,1,Clearwater, FL
+Data Analyst,4.4,501 to 1000 employees,Company - Private,Wholesale,Business Services,$100 to $500 million (USD),53.5,0,0,0,0,1,Tacoma, WA
+Data Engineer,3.7,5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),105.5,1,0,1,0,0,Springfield, VA
+"Principal, Data Science - Advanced Analytics",3.6,10000+ employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),111.5,0,0,0,0,0,Plymouth Meeting, PA
+Data Engineer,4.0,5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),108.0,1,0,1,0,0,San Francisco, CA
+Senior Data Scientist,4.0,5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),150.5,1,0,1,0,0,San Francisco, CA
+"Principal Data Engineer, Data Platform & Insights",4.0,5001 to 10000 employees,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),162.5,1,0,1,0,1,San Francisco, CA
+Products Data Analyst II,3.3,1001 to 5000 employees,Company - Public,Consulting,Business Services,$2 to $5 billion (USD),123.5,0,0,0,0,1,Dublin, CA
+Data Scientist,3.5,10000+ employees,Company - Public,Consulting,Business Services,$2 to $5 billion (USD),80.5,1,0,0,1,0,New York, NY
+Scientist,3.4,5001 to 10000 employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),82.5,0,0,0,1,0,Allendale, NJ
+BI & Platform Analytics Manager,3.4,1001 to 5000 employees,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),109.5,1,0,0,0,1,Ewing, NJ
+Associate Data Analyst,3.1,5001 to 10000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),29.5,0,0,0,0,1,Longmont, CO
+"Senior Operations Data Analyst, Call Center Operations",2.7,5001 to 10000 employees,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD),13.5,0,0,0,0,1,Nashville, TN
+"Data Analyst, Performance Partnership",3.6,10000+ employees,Subsidiary or Business Segment,Health Care Products Manufacturing,Manufacturing,$2 to $5 billion (USD),73.0,0,0,0,1,1,New York, NY
+Healthcare Data Scientist,3.4,10000+ employees,Other Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),87.5,1,0,0,0,0,Linthicum, MD
+Data Engineer,3.9,10000+ employees,Company - Private,IT Services,Information Technology,$2 to $5 billion (USD),87.0,0,0,0,0,0,Washington, DC
+Data Scientist,3.0,1001 to 5000 employees,Company - Private,Insurance Agencies & Brokerages,Insurance,$2 to $5 billion (USD),94.5,1,0,0,0,0,Cincinnati, OH
+Data Engineering Analyst,3.8,1001 to 5000 employees,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),58.5,1,0,1,0,1,Bloomington, IL
+Data Analyst,3.1,1001 to 5000 employees,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),56.5,0,0,0,0,1,Milwaukee, WI
+Senior Data Scientist,4.3,1001 to 5000 employees,Company - Public,Real Estate,Real Estate,$2 to $5 billion (USD),130.0,1,0,1,0,1,Chicago, IL
+Data Engineer,4.3,1001 to 5000 employees,Company - Public,Real Estate,Real Estate,$2 to $5 billion (USD),92.5,1,0,1,0,1,Chicago, IL
+Data Scientist,3.8,5001 to 10000 employees,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),121.0,1,0,1,0,1,Sunnyvale, CA
+Senior Data Scientist,3.8,5001 to 10000 employees,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),142.0,1,0,1,1,1,Cupertino, CA
+Sr. Data Engineer,3.4,1001 to 5000 employees,Company - Public,Transportation Management,Transportation & Logistics,$2 to $5 billion (USD),107.5,0,0,0,0,0,Chicago, IL
+"Business Data Analyst, SQL",3.8,1001 to 5000 employees,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),65.0,0,0,0,0,1,New York, NY
+"Marketing Data Analyst, May 2020 Undergrad",3.8,1001 to 5000 employees,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),65.0,0,0,0,0,1,New York, NY
+Business Data Analyst,3.8,1001 to 5000 employees,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),53.5,1,0,0,0,1,New York, NY
+Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,3.8,1001 to 5000 employees,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),74.5,1,0,1,0,0,New York, NY
+Jr. Business Data Analyst,4.7,201 to 500 employees,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD),56.5,0,0,0,0,1,Harrisburg, PA
+Data Engineer,4.2,51 to 200 employees,Company - Public,Advertising & Marketing,Business Services,$25 to $50 million (USD),71.5,1,0,1,1,1,Winter Park, FL
+Radar Data Analyst,4.7,51 to 200 employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $50 million (USD),59.0,1,0,0,0,1,Huntsville, AL
+Staff Scientist,4.4,201 to 500 employees,Company - Private,Architectural & Engineering Services,Business Services,$25 to $50 million (USD),60.5,0,0,0,0,0,Columbia, SC
+"Scientist, Bacteriology",2.1,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),111.5,0,0,0,0,1,Concord, CA
+Staff Scientist-Downstream Process Development,2.7,201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),81.0,0,0,0,0,1,Rockville, MD
+Staff Scientist- Upstream PD,2.7,201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),81.0,0,0,0,0,0,Rockville, MD
+Quality Control Scientist III- Analytical Development,2.7,201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),80.5,0,0,0,0,1,Rockville, MD
+Senior Data Analyst,2.9,201 to 500 employees,Nonprofit Organization,Colleges & Universities,Education,$25 to $50 million (USD),61.5,1,0,0,0,1,Herndon, VA
+Revenue Analytics Manager,4.8,51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),61.5,0,0,0,0,1,San Francisco, CA
+Data Scientist,4.7,51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),79.5,1,0,0,0,1,Atlanta, GA
+Sr. Data Engineer,4.5,51 to 200 employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),122.5,1,0,1,1,0,Indianapolis, IN
+Data Scientist,3.8,201 to 500 employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),114.0,1,0,1,1,1,San Jose, CA
+Data Engineer,4.7,51 to 200 employees,Company - Private,Consulting,Business Services,$25 to $50 million (USD),95.0,0,0,1,1,0,Minneapolis, MN
+Data Scientist (Warehouse Automation),3.8,201 to 500 employees,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$25 to $50 million (USD),103.0,1,0,0,1,0,San Francisco, CA
+Senior Data Analyst,4.3,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),55.0,0,0,0,0,1,Phoenix, AZ
+Data Scientist,3.7,201 to 500 employees,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),86.0,1,0,0,0,1,Silver Spring, MD
+Data Engineer,3.4,201 to 500 employees,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),109.0,0,0,0,1,0,Rockville, MD
+Data Scientist,3.5,201 to 500 employees,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),88.5,0,0,0,1,0,Indianapolis, IN
+Data Management Specialist,4.5,51 to 200 employees,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),48.0,0,0,0,0,1,Huntsville, AL
+Foundational Community Supports Data Analyst,3.4,501 to 1000 employees,Nonprofit Organization,Social Assistance,Non-Profit,$25 to $50 million (USD),44.5,0,0,0,1,1,Seattle, WA
+Information Security Data Analyst,4.3,501 to 1000 employees,Company - Public,Banks & Credit Unions,Finance,$5 to $10 billion (USD),58.0,0,0,0,1,0,Red Bank, NJ
+Information Security Data Analyst,3.7,10000+ employees,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),61.0,1,0,1,0,0,Chicago, IL
+Data Science Engineer - Mobile,4.0,10000+ employees,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),162.0,1,0,0,0,1,San Jose, CA
+IT Associate Data Analyst,3.7,5001 to 10000 employees,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),54.0,0,0,0,0,0,Worcester, MA
+MongoDB Data Engineer II,3.8,5001 to 10000 employees,Nonprofit Organization,Insurance Carriers,Insurance,$5 to $10 billion (USD),106.5,0,0,0,0,1,Chattanooga, TN
+PL Actuarial-Lead Data Scientist,3.7,5001 to 10000 employees,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),146.5,1,0,0,0,1,Worcester, MA
+Data Analyst Senior,3.0,5001 to 10000 employees,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD),66.5,0,0,0,0,1,Philadelphia, PA
+Data Scientist,3.7,1001 to 5000 employees,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),102.0,1,0,1,1,1,Raleigh, NC
+Sr Software Engineer (Data Scientist),3.4,10000+ employees,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),110.5,0,0,0,0,1,Westlake, OH
+Associate Data Analyst,3.7,5001 to 10000 employees,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),47.5,0,0,0,0,1,Worcester, MA
+Data Scientist,3.8,10000+ employees,Company - Public,Sporting Goods Stores,Retail,$5 to $10 billion (USD),85.0,1,0,0,0,0,Coraopolis, PA
+Senior Data Scientist,3.3,10000+ employees,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),104.5,1,0,1,1,1,Southfield, MI
+Software Engineer - Data Visualization,4.0,51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),93.5,0,0,0,0,1,Annapolis Junction, MD
+Data Scientist,4.6,51 to 200 employees,Company - Private,Consulting,Business Services,$5 to $10 million (USD),94.0,1,0,1,1,0,Waltham, MA
+Data Scientist,3.5,51 to 200 employees,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$5 to $10 million (USD),139.5,1,0,0,0,0,Foster City, CA
+Data Scientist,3.4,51 to 200 employees,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),89.0,0,0,0,0,0,Olympia, WA
+Data Scientist,3.5,1 to 50 employees,School / School District,K-12 Education,Education,$5 to $10 million (USD),96.0,0,0,0,0,1,Maryland Heights, MO
+Research Scientist / Principal Research Scientist - Multiphysical Systems,4.6,51 to 200 employees,Subsidiary or Business Segment,Research & Development,Business Services,$5 to $10 million (USD),167.5,0,0,0,0,0,Cambridge, MA
+Research Scientist or Senior Research Scientist - Computer Vision,4.6,51 to 200 employees,Subsidiary or Business Segment,Research & Development,Business Services,$5 to $10 million (USD),121.0,0,0,0,1,1,Cambridge, MA
+Data Scientist,3.2,1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),128.5,1,0,1,1,0,Philadelphia, PA
+Data Science Manager,3.2,1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),127.5,0,0,0,0,1,Allentown, PA
+"Sr. Data Scientist, Cyber-Security LT Contract",3.2,1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),155.0,1,0,1,1,1,Phila, PA
+Data Engineer,3.2,1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),91.5,1,0,1,1,1,King of Prussia, PA
+Product Manager/Data Evangelist,3.2,1 to 50 employees,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),74.0,1,0,0,1,0,Phila, PA
+Senior Data Scientist,2.2,501 to 1000 employees,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$50 to $100 million (USD),110.0,0,0,0,0,0,Dallas, TX
+Data Scientist,3.8,501 to 1000 employees,Company - Private,Aerospace & Defense,Aerospace & Defense,$50 to $100 million (USD),72.0,1,0,0,0,1,Albuquerque, NM
+Data Scientist,4.2,201 to 500 employees,Company - Private,Banks & Credit Unions,Finance,$50 to $100 million (USD),100.5,0,0,0,0,1,Holyoke, MA
+"Scientist, Pharmacometrics",3.8,501 to 1000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),120.5,0,0,0,0,0,Cambridge, MA
+"Manager, Safety Scientist, Medical Safety & Risk Management",3.8,501 to 1000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),96.5,0,0,0,0,1,Cambridge, MA
+Scientist - Biomarker and Flow Cytometry,2.4,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),70.5,0,0,0,0,0,San Diego, CA
+Data Analyst,4.0,201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),49.0,1,1,0,0,1,Meridian, ID
+Staff Data Engineer,3.7,1001 to 5000 employees,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),177.0,1,0,1,1,0,Mountain View, CA
+Data Engineer,3.5,201 to 500 employees,Company - Private,Consulting,Business Services,$50 to $100 million (USD),95.5,1,0,0,0,0,Chicago, IL
+Data Scientist,4.4,201 to 500 employees,Company - Private,Consulting,Business Services,$50 to $100 million (USD),81.0,1,0,0,1,1,Chicago, IL
+SQL Data Engineer,3.4,201 to 500 employees,Company - Private,Consulting,Business Services,$50 to $100 million (USD),93.0,1,0,0,1,0,Austin, TX
+Data & Analytics Consultant (NYC),4.7,201 to 500 employees,Company - Private,Consulting,Business Services,$50 to $100 million (USD),114.5,1,0,0,0,1,New York, NY
+Senior Data Scientist,4.4,201 to 500 employees,Company - Private,Consulting,Business Services,$50 to $100 million (USD),128.5,1,0,0,1,1,Chicago, IL
+Data Engineer,4.0,201 to 500 employees,Company - Private,Consulting,Business Services,$50 to $100 million (USD),87.0,1,0,0,1,1,Arlington, VA
+Ag Data Scientist,4.6,501 to 1000 employees,Company - Private,Farm Support Services,Agriculture & Forestry,$50 to $100 million (USD),80.5,0,0,0,0,0,Atlanta, IN
+Research Scientist – Security and Privacy,3.6,501 to 1000 employees,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million (USD),93.5,1,0,0,0,0,Beavercreek, OH
+Senior Data Scientist,3.9,51 to 200 employees,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million (USD),148.0,1,0,0,0,0,Burbank, CA
+Lead Data Scientist,3.9,51 to 200 employees,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million (USD),180.0,1,0,0,0,1,Burbank, CA
+Senior Risk Data Scientist,3.8,501 to 1000 employees,Company - Public,Financial Transaction Processing,Finance,$50 to $100 million (USD),139.5,0,0,0,0,0,Palo Alto, CA
+Medical Laboratory Scientist,4.0,1001 to 5000 employees,Hospital,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),21.5,0,0,0,1,0,Burleson, TX
+Data Analyst,4.2,201 to 500 employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),88.0,1,0,0,1,1,San Francisco, CA
+Data Engineer,3.4,501 to 1000 employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),60.5,1,0,1,1,0,Scottsdale, AZ
+Data Scientist,4.3,201 to 500 employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),69.5,1,0,0,0,1,Phoenix, AZ
+Data Engineer,4.6,501 to 1000 employees,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),75.5,0,0,1,0,0,Houston, TX
+Lead Data Engineer,4.1,51 to 200 employees,Company - Private,Internet,Information Technology,$50 to $100 million (USD),205.0,1,0,1,1,0,Mountain View, CA
+"Risk and Analytics IT, Data Scientist",2.7,51 to 200 employees,Government,Investment Banking & Asset Management,Finance,$50 to $100 million (USD),120.0,1,0,0,0,0,Madison, WI
+Insurance Financial Data Analyst,4.2,501 to 1000 employees,Company - Private,Investment Banking & Asset Management,Finance,$50 to $100 million (USD),63.5,0,0,0,0,1,Boise, ID
+Scientist,2.7,501 to 1000 employees,Subsidiary or Business Segment,Research & Development,Business Services,$50 to $100 million (USD),76.0,0,0,0,0,1,Maryland Heights, MO
+Data Analyst,2.8,501 to 1000 employees,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million (USD),47.5,0,0,0,0,1,Parlier, CA
+Market Data Analyst,3.4,201 to 500 employees,Company - Public,Telecommunications Manufacturing,Telecommunications,$50 to $100 million (USD),44.0,0,0,0,0,0,West Palm Beach, FL
+Data Scientist,3.5,5001 to 10000 employees,Company - Public,Aerospace & Defense,Aerospace & Defense,$500 million to $1 billion (USD),96.0,1,0,0,0,0,Oak Ridge, TN
+Data Scientist,3.6,1001 to 5000 employees,Company - Public,Auctions & Galleries,Retail,$500 million to $1 billion (USD),128.0,1,0,0,0,0,New York, NY
+"Scientist 2, QC Viral Vector",3.8,1001 to 5000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$500 million to $1 billion (USD),168.0,0,0,0,0,1,Novato, CA
+Supply Chain Data Analyst,3.1,1001 to 5000 employees,Company - Private,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),47.0,1,0,0,0,1,Logan, UT
+Data Scientist in Artificial Intelligence Early Career,3.8,1001 to 5000 employees,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),67.0,0,0,0,0,0,Richland, WA
+Computational Chemist/Data Scientist,3.8,1001 to 5000 employees,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),76.5,1,0,0,0,0,Richland, WA
+Data Scientist - Bioinformatics,3.8,1001 to 5000 employees,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),67.0,1,0,0,0,0,Richland, WA
+Data Scientist,3.8,1001 to 5000 employees,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),76.5,1,0,0,0,0,Richland, WA
+Senior Data Scientist Artificial Intelligence,3.8,1001 to 5000 employees,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),80.5,0,0,0,0,0,Richland, WA
+Senior Data Scientist 4 Artificial Intelligence,3.8,1001 to 5000 employees,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),119.0,0,0,0,0,0,Seattle, WA
+Senior Data Scientist Statistics,3.8,1001 to 5000 employees,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),98.5,0,0,0,0,0,Richland, WA
+Data Architect / Data Modeler,4.3,1001 to 5000 employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),86.5,0,0,0,1,1,New York, NY
+Senior Data Scientist,4.3,1001 to 5000 employees,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),123.5,1,0,0,1,0,New York, NY
+"Senior Health Data Analyst, Star Ratings",3.3,1001 to 5000 employees,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),107.5,0,0,0,0,0,Glen Burnie, MD
+Sr. Data Analyst,3.7,201 to 500 employees,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),69.5,0,0,0,0,1,Philadelphia, PA
+"Principal Scientist, Chemistry & Immunology",3.3,10000+ employees,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),84.5,0,0,0,0,0,Rochester, NY
+"Principal Scientist, Hematology",3.3,10000+ employees,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),84.5,0,0,0,0,0,Rochester, NY
+Analytics Manager - Data Mart,3.5,501 to 1000 employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),64.0,0,0,0,0,0,Scotts Valley, CA
+Research Scientist,3.3,10000+ employees,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),61.0,0,0,0,0,0,Rochester, NY
+Data Scientist,4.4,10000+ employees,Company - Private,IT Services,Information Technology,$500 million to $1 billion (USD),113.5,1,0,0,0,1,San Jose, CA
+"Data Scientist (Actuary, FSA or ASA)",3.8,501 to 1000 employees,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),107.0,1,0,0,0,1,Frederick, MD
+Associate Data Analyst- Graduate Development Program,3.3,501 to 1000 employees,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),45.5,0,0,0,0,0,Richfield, OH
+Data Engineer,2.8,501 to 1000 employees,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),83.0,0,0,0,0,0,San Diego, CA
+Data Engineer,4.0,501 to 1000 employees,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion (USD),99.0,1,0,0,1,0,Denver, CO
+Data Scientist,4.0,501 to 1000 employees,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion (USD),87.5,1,0,0,0,1,Denver, CO
+"VP, Data Science",3.2,1001 to 5000 employees,Company - Public,Lending,Finance,$500 million to $1 billion (USD),124.5,1,0,0,0,1,Phoenix, AZ
+Data Engineer,3.2,1001 to 5000 employees,Company - Public,Lending,Finance,$500 million to $1 billion (USD),101.0,1,0,0,1,1,Agoura Hills, CA
+Data Scientist,3.6,1001 to 5000 employees,Company - Private,Real Estate,Real Estate,$500 million to $1 billion (USD),96.0,1,0,0,0,0,Detroit, MI
+RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,3.9,1001 to 5000 employees,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),71.5,1,0,0,1,1,San Antonio, TX
+RESEARCH SCIENTIST - BIOLOGICAL SAFETY,3.9,1001 to 5000 employees,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),60.0,0,0,0,0,0,San Antonio, TX
+Senior Research Analytical Scientist-Non-Targeted Analysis,4.3,1001 to 5000 employees,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),65.5,0,0,0,0,0,Durham, NC
+Machine Learning Engineer - Regulatory,3.7,501 to 1000 employees,Company - Public,Stock Exchanges,Finance,$500 million to $1 billion (USD),87.0,1,0,0,0,1,Lenexa, KS
+Data Scientist,3.5,1001 to 5000 employees,Subsidiary or Business Segment,TV Broadcast & Cable Networks,Media,$500 million to $1 billion (USD),128.0,1,0,1,0,0,New York, NY
+Data Scientist,3.5,1001 to 5000 employees,Company - Public,TV Broadcast & Cable Networks,Media,$500 million to $1 billion (USD),107.5,1,0,0,0,0,Cincinnati, OH
+Data Scientist,4.0,1 to 50 employees,Company - Private,Accounting,Accounting & Legal,Less than $1 million (USD),113.5,1,0,1,0,0,Santa Clara, CA
+Data Scientist,3.9,1 to 50 employees,Company - Private,IT Services,Information Technology,Less than $1 million (USD),113.5,1,0,0,0,0,San Francisco, CA
+Data Scientist,4.0,1 to 50 employees,Company - Private,IT Services,Information Technology,Less than $1 million (USD),109.0,1,0,0,0,0,San Francisco, CA
+Data Analyst,4.1,201 to 500 employees,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,65.5,1,0,1,1,1,Seattle, WA
+Data Scientist,3.6,1001 to 5000 employees,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,114.0,1,0,0,1,1,Fort Lee, NJ
+Director Data Science,3.6,1001 to 5000 employees,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,161.5,1,0,0,1,1,Fort Lee, NJ
+Staff BI and Data Engineer,2.9,51 to 200 employees,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,114.0,1,0,1,0,0,San Jose, CA
+Data Scientist,3.5,201 to 500 employees,Company - Public,Advertising & Marketing,Business Services,Unknown / Non-Applicable,104.5,1,0,1,1,1,New York, NY
+Data Scientist,4.3,1 to 50 employees,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,83.5,1,0,0,0,1,Austin, TX
+Data Scientist,2.9,51 to 200 employees,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,114.5,1,0,0,0,1,New York, NY
+Analytics Manager,4.3,201 to 500 employees,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,87.5,0,0,0,0,1,Dearborn, MI
+Data Scientist,3.3,201 to 500 employees,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,164.5,0,0,0,0,0,San Francisco, CA
+Data Scientist,3.8,501 to 1000 employees,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable,91.0,1,0,0,0,1,Fort Lauderdale, FL
+Machine Learning Engineer,4.3,1 to 50 employees,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,100.5,1,0,1,1,1,Aurora, CO
+Data Scientist,4.1,501 to 1000 employees,Company - Private,Banks & Credit Unions,Finance,Unknown / Non-Applicable,73.5,0,0,0,0,1,Baltimore, MD
+Marketing Data Analyst,3.9,501 to 1000 employees,Nonprofit Organization,Banks & Credit Unions,Finance,Unknown / Non-Applicable,49.0,1,0,0,0,0,Exton, PA
+Data Analyst Chemist - Quality System Contractor,2.2,501 to 1000 employees,Company - Private,Beauty & Personal Accessories Stores,Retail,Unknown / Non-Applicable,85.5,0,0,0,0,1,San Francisco, CA
+"Associate Scientist / Sr. Associate Scientist, Antibody Discovery",4.0,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,92.0,0,0,0,1,1,South San Francisco, CA
+"Scientist, Molecular/Cellular Biologist",2.9,201 to 500 employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,73.0,0,0,0,0,0,South San Francisco, CA
+Data Engineer,3.5,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,68.5,1,0,1,0,0,Phoenix, AZ
+Sr. Scientist Method Development,2.9,1001 to 5000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,80.0,0,0,0,0,1,Marietta, GA
+"Associate Director/Director, Safety Scientist",4.4,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,140.0,0,0,0,0,1,Cambridge, MA
+PV Scientist,2.9,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,91.5,0,0,0,0,1,Newton, MA
+"Associate Scientist, LC/MS Biologics",2.9,1001 to 5000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,70.0,0,0,0,0,1,Ithaca, NY
+Associate Research Scientist I (Protein Expression and Production),3.0,501 to 1000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,87.5,0,0,0,0,1,Alameda, CA
+Data Scientist,2.5,1 to 50 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,143.5,1,0,0,0,1,Brisbane, CA
+Senior Data & Machine Learning Scientist,3.0,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,133.0,1,0,0,1,0,Chicago, IL
+Senior Formulations Scientist II,3.0,501 to 1000 employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,100.0,0,0,0,0,1,Alameda, CA
+Data Scientist,4.7,201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,112.5,1,0,0,0,1,Ipswich, MA
+"Project Scientist - Auton Lab, Robotics Institute",2.6,501 to 1000 employees,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,73.5,0,0,0,0,1,Pittsburgh, PA
+Machine Learning Research Scientist,2.6,501 to 1000 employees,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,120.0,1,0,0,0,0,Pittsburgh, PA
+Senior Research Scientist-Machine Learning,2.6,501 to 1000 employees,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,124.0,0,0,0,0,0,Pittsburgh, PA
+Data Scientist,2.6,10000+ employees,Company - Private,Colleges & Universities,Education,Unknown / Non-Applicable,121.0,1,0,0,0,0,Irvine, CA
+Geospatial Software Developer and Data Scientist,3.7,501 to 1000 employees,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,105.5,1,0,0,1,0,Austin, TX
+Senior Research Scientist - Embedded System Development for DevOps,2.6,501 to 1000 employees,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,124.0,1,0,0,0,1,Pittsburgh, PA
+"Research Scientist, Machine Learning Department",2.6,501 to 1000 employees,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,107.5,1,0,0,0,0,Pittsburgh, PA
+Data Scientist,4.7,51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,85.5,1,0,1,0,1,Santa Barbara, CA
+Software Data Engineer - College,4.0,10000+ employees,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,73.0,0,0,0,0,0,Corvallis, OR
+Staff Data Engineer,3.8,501 to 1000 employees,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,149.5,0,0,1,1,0,Austin, TX
+Principal Machine Learning Scientist,4.7,501 to 1000 employees,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,232.5,1,0,0,0,0,San Francisco, CA
+Data Engineer,3.7,501 to 1000 employees,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,70.5,0,0,0,0,1,Lafayette, LA
+R&D Sr Data Scientist,4.0,10000+ employees,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,128.0,0,0,1,1,0,Vancouver, WA
+Senior Data Scientist,4.3,51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,153.0,1,0,1,0,1,Los Angeles, CA
+Senior Data Analyst,3.9,51 to 200 employees,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,138.5,1,0,0,0,0,San Francisco, CA
+Machine Learning Engineer,3.2,1001 to 5000 employees,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,125.0,1,0,0,1,1,New York, NY
+Financial Data Analyst,4.7,201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,56.5,0,0,0,0,1,Matawan, NJ
+Senior LiDAR Data Scientist,3.9,201 to 500 employees,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,122.0,1,0,0,1,0,Orlando, FL
+R&D Data Analysis Scientist,4.0,10000+ employees,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,97.5,0,0,0,0,0,Vancouver, WA
+Senior Data Scientist,5.0,51 to 200 employees,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,130.0,0,0,0,0,1,Ann Arbor, MI
+ENVIRONMENTAL ENGINEER/SCIENTIST,3.3,1 to 50 employees,Company - Private,Construction,"Construction, Repair & Maintenance",Unknown / Non-Applicable,26.5,0,0,0,0,1,Cambridge, MA
+Senior Data Scientist,4.2,1001 to 5000 employees,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,237.5,1,0,0,0,1,Washington, DC
+Data Scientist,4.3,201 to 500 employees,Subsidiary or Business Segment,Consulting,Business Services,Unknown / Non-Applicable,72.5,1,0,1,1,1,Dallas, TX
+Survey Data Analyst,4.2,201 to 500 employees,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,76.0,1,0,0,0,1,Minneapolis, MN
+Senior Spark Engineer (Data Science),4.4,51 to 200 employees,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,106.5,1,0,1,1,0,Indianapolis, IN
+Data Scientist,4.0,501 to 1000 employees,Company - Private,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,97.5,1,0,0,0,1,New York, NY
+Data Engineer - ETL,3.8,501 to 1000 employees,Subsidiary or Business Segment,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,65.0,1,0,1,1,1,Birmingham, AL
+Data Scientist,4.2,51 to 200 employees,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,75.5,1,0,0,1,0,New York, NY
+"Data Scientist, Rice University",4.3,1001 to 5000 employees,Subsidiary or Business Segment,Education Training Services,Education,Unknown / Non-Applicable,87.5,1,0,0,0,0,Houston, TX
+Data Scientist - Health Data Analytics,4.2,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,142.5,0,0,0,0,0,San Francisco, CA
+Customer Data Scientist,4.3,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,153.5,1,0,1,1,1,Mountain View, CA
+Principal Data Scientist,3.2,501 to 1000 employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,194.0,0,0,0,1,1,San Francisco, CA
+System and Data Analyst,3.7,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,59.0,0,0,0,0,1,Cherry Hill, NJ
+Analytics Consultant,4.4,1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,66.5,1,0,0,0,0,Indianapolis, IN
+Sr. Data Engineer | Big Data SaaS Pipeline,2.7,1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,103.0,0,0,1,1,0,Los Angeles, CA
+Data Scientist,4.1,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,154.5,1,0,1,0,1,Santa Clara, CA
+Data Engineer,4.4,1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,109.0,1,0,1,0,0,Herndon, VA
+Data Scientist - Algorithms & Inference,4.2,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,142.5,0,0,0,0,0,San Francisco, CA
+Data Scientist,3.2,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,132.5,0,0,1,0,1,San Francisco, CA
+Big Data Engineer,4.4,1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,90.5,1,0,1,0,0,Indianapolis, IN
+Data Scientist,4.4,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,100.5,1,0,0,0,1,Cambridge, MA
+Data Scientist,4.1,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,154.5,1,0,1,0,1,San Francisco, CA
+Customer Data Scientist/Sales Engineer (Bay,4.3,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,150.5,1,0,1,1,1,Mountain View, CA
+Data Analyst,3.4,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,69.0,1,0,0,0,1,San Francisco, CA
+E-Commerce Data Analyst,3.5,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,48.0,0,0,0,0,1,New Orleans, LA
+Senior Data Scientist - Algorithms,3.9,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,165.0,1,0,0,0,0,New York, NY
+Customer Data Scientist/Sales Engineer,4.3,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,137.5,1,0,1,1,1,Chicago, IL
+Data Scientist,3.5,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,120.5,1,0,0,0,0,San Francisco, CA
+Medical Technologist / Clinical Laboratory Scientist,3.4,10000+ employees,Government,Federal Agencies,Government,Unknown / Non-Applicable,20.0,0,0,0,0,0,New Orleans, LA
+Food Scientist - Developer,3.3,501 to 1000 employees,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,54.0,0,0,0,0,0,Milwaukee, WI
+Data Scientist,3.4,201 to 500 employees,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,95.0,1,0,1,1,0,New York, NY
+Data Scientist II,3.0,1001 to 5000 employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,119.5,1,0,1,0,0,Los Angeles, CA
+Junior Data Analyst,3.3,501 to 1000 employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,50.0,0,0,0,0,1,Washington, DC
+Research Scientist,2.9,1001 to 5000 employees,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,61.5,0,0,0,0,1,Omaha, NE
+Sr Data Engineer (Sr BI Developer),3.4,501 to 1000 employees,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,100.0,0,0,0,0,0,Chandler, AZ
+Medical Lab Scientist,3.6,5001 to 10000 employees,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,20.5,0,0,0,0,0,West Reading, PA
+Data Scientist,2.8,201 to 500 employees,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,107.5,1,0,0,0,0,Rockville, MD
+Senior Data Engineer,3.2,1001 to 5000 employees,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,109.0,0,0,0,1,1,Franklin, TN
+Data Science Manager,4.2,501 to 1000 employees,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,221.5,1,0,0,0,1,San Francisco, CA
+Data Engineer,3.5,501 to 1000 employees,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,94.5,1,0,1,1,1,Orange, CA
+Web Data Analyst,4.2,201 to 500 employees,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,106.0,1,0,0,0,1,San Jose, CA
+Data Scientist,4.7,51 to 200 employees,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,143.5,1,0,1,0,0,Saint Louis, MO
+Lead Data Scientist,4.1,1 to 50 employees,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,133.0,1,0,0,0,0,Silver Spring, MD
+Senior Data Analyst,2.8,201 to 500 employees,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,77.5,1,0,0,0,1,Hamilton, NJ
+Data Engineer - Consultant (Charlotte Based),4.2,201 to 500 employees,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,85.5,1,0,0,0,1,Charlotte, NC
+Data Scientist,3.5,10000+ employees,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable,90.0,1,0,0,0,1,San Ramon, CA
+Data Scientist,4.8,1 to 50 employees,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,145.5,1,0,0,0,1,New York, NY
+Data Scientist,2.7,10000+ employees,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable,153.0,1,0,1,1,0,Emeryville, CA
+Data Engineer,4.4,51 to 200 employees,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,85.0,1,0,1,1,0,Chantilly, VA
+Data Engineer,5.0,51 to 200 employees,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,132.5,0,0,0,0,0,Tampa, FL
+Senior Data Scientist / Machine Learning,3.9,201 to 500 employees,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,96.0,0,0,0,0,1,Dallas, TX
+Senior Data Scientist,3.5,1001 to 5000 employees,Company - Public,Insurance Carriers,Insurance,Unknown / Non-Applicable,124.5,1,0,1,0,1,Charlotte, NC
+Lead Health Data Analyst - Front End,3.4,501 to 1000 employees,Nonprofit Organization,Insurance Carriers,Insurance,Unknown / Non-Applicable,100.0,0,0,0,1,0,Providence, RI
+Lead Big Data Engineer,4.0,1001 to 5000 employees,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,162.0,1,0,1,1,1,San Francisco, CA
+Data Engineer,3.9,51 to 200 employees,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,84.5,1,0,1,0,0,Cambridge, MA
+Data Engineer,4.0,51 to 200 employees,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,122.0,1,0,1,1,0,Washington, DC
+Data Scientist,3.2,201 to 500 employees,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,105.5,1,0,1,0,0,Seattle, WA
+Senior Data Scientist,4.4,1 to 50 employees,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,116.5,1,0,0,0,0,Palo Alto, CA
+Sr. Data Analyst,3.2,201 to 500 employees,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,83.0,1,0,1,0,1,New York, NY
+Data Engineer,3.4,201 to 500 employees,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,78.0,1,0,0,0,0,Lyndhurst, NJ
+Data Scientist,3.4,501 to 1000 employees,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,127.0,1,0,1,0,0,Palo Alto, CA
+Data Scientist - Alpha Insights,4.4,1001 to 5000 employees,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,172.0,0,0,0,0,0,New York, NY
+Senior Data Scientist,4.1,1 to 50 employees,Company - Private,K-12 Education,Education,Unknown / Non-Applicable,169.0,0,0,0,1,1,Palo Alto, CA
+Machine Learning Engineer (NLP),4.1,1 to 50 employees,Company - Private,K-12 Education,Education,Unknown / Non-Applicable,111.0,1,0,0,1,1,Palo Alto, CA
+"Technology-Minded, Data Professional Opportunities",4.7,1001 to 5000 employees,Company - Private,Lending,Finance,Unknown / Non-Applicable,70.5,0,0,1,0,1,Columbia, MO
+Data Scientist - Quantitative,3.8,501 to 1000 employees,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable,112.5,1,0,0,1,1,Chicago, IL
+Senior Data Scientist,4.4,201 to 500 employees,Subsidiary or Business Segment,Metals Brokers,Mining & Metals,Unknown / Non-Applicable,107.0,1,0,0,1,0,Cincinnati, OH
+Data Engineer I,3.6,1001 to 5000 employees,Subsidiary or Business Segment,Motion Picture Production & Distribution,Media,Unknown / Non-Applicable,146.0,0,0,0,0,1,Newark, NJ
+Data Analyst - Asset Management,4.3,51 to 200 employees,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,103.5,0,0,0,0,1,San Francisco, CA
+Data Analyst 2 (Missionary Department),4.2,10000+ employees,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,72.0,0,0,0,0,0,Salt Lake City, UT
+"Data Analyst 1, full-time contract worker for up to 12 months",4.2,10000+ employees,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,50.0,0,0,0,1,1,Salt Lake City, UT
+Data Engineer 4 - Contract,4.2,10000+ employees,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,87.0,0,0,0,1,1,Riverton, UT
+Data Engineer 5 - Contract (Remote),4.2,10000+ employees,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,107.0,0,0,0,0,1,Riverton, UT
+Data Engineer,3.2,501 to 1000 employees,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,64.5,1,0,0,1,1,New York, NY
+Associate Data Engineer,3.5,1001 to 5000 employees,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,65.5,0,0,1,1,1,Washington, DC
+Data Scientist,3.8,51 to 200 employees,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,121.0,1,0,1,0,0,New York, NY
+Data Scientist,4.7,501 to 1000 employees,Company - Private,Security Services,Business Services,Unknown / Non-Applicable,85.5,1,0,0,0,0,Syracuse, NY
+Research Scientist,3.8,1001 to 5000 employees,Nonprofit Organization,Social Assistance,Non-Profit,Unknown / Non-Applicable,52.5,0,0,0,0,1,Omaha, NE
+Data Analytics Manager,3.8,501 to 1000 employees,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,40.5,1,0,0,1,1,Kansas City, MO
+Sr. Data Scientist,3.7,201 to 500 employees,Company - Private,Travel Agencies,Travel & Tourism,Unknown / Non-Applicable,105.0,1,0,0,0,0,Denver, CO
+Business Intelligence Analyst / Developer,4.3,1001 to 5000 employees,Company - Private,Trucking,Transportation & Logistics,Unknown / Non-Applicable,79.0,0,0,0,0,0,Dayton, OH
